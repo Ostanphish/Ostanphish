@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ostanphish
-- 👀 I’m interested in anything software development 
+- 👋 Hi, I’m @Osteen
+- 👀 I’m interested in anything software development and cyber security
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on s/w dvt.
 - 📫 How to reach me osteenmuchiri@gmail.com
